@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gopala Krishna
+- 👀 I’m interested in Competitive Programming
